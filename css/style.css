@@ -1,0 +1,146 @@
+h1{
+    text-align: center;
+    margin-top: 2px;
+    font-size: 30px;
+}
+
+h2{
+    font-size: 20px;
+}
+
+b{
+    font-size: 20px;
+}
+
+p2{
+    margin-left: 20px;
+}
+
+p1{
+    font-size: 14px;
+    
+}
+
+p3{
+    margin-top: 30px;
+    font-size: 20px;
+    
+}
+
+p{
+    text-align: center;
+    font-display: auto;
+    font-size: 14px;
+    
+}
+
+.row{
+    grid-column-gap: 20em;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 80px;
+    text-align: justify;
+    
+}
+
+body {
+  background-size: contain;
+  display: grid;
+      
+  /* background-image: url("https://www.presentationmagazine.com/powerpoint-templates/0/0/00414/business-backgrounds-powerpoint-template_2.jpg");*/
+  background-repeat: no-repeat;
+}
+
+.brownbutton{
+    border-radius: 15px;
+    background-color: burlywood;
+}
+
+.indent{
+    padding-left: 30pt;
+}
+
+
+low{
+    margin-top: 20px;
+}
+
+/* Container for skill bars */
+.container {
+  width: 100%; /* Full width */
+  background-color: white; /* Grey background */
+}
+
+.skills {
+  text-align: right; /* Right-align text */
+  padding-top: 10px; /* Add top padding */
+  padding-bottom: 10px; /* Add bottom padding */
+  color: black; /* White text color */
+}
+
+.html {width: 90%; background-color: #4CAF50; border: blue; } /* Green */
+.css {width: 80%; background-color: #2196F3; border: blue;} /* Blue */
+.js {width: 40%; background-color: #f44336; border: blue;} /* Red */
+.cplusplus {width: 60%; background-color: #808080; border: blue;} /* Dark Grey */
+.python {width: 90%; background-color: yellow; }
+.java{width: 30%; background-color: aqua;}
+
+
+    
+.container{
+    margin-left: 50px;
+    padding: -1000em;
+}
+
+.gap_between{
+    padding-top: 30pt;
+}
+
+h5{
+    font-size: 25px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+h6{
+    font-size: 25px;
+    margin-top: 20px;
+    margin-left: 25px;
+}
+
+.styling{
+    border-radius: 5px;
+}
+
+.margin{
+    margin-top: 20px;
+}
+
+.left{
+    
+    color: midnightblue;
+    margin-right: 300px;
+    
+    
+}
+
+.left1{
+    margin-top: 20px;
+    margin-right: 160px;
+    color: midnightblue;
+    font-size: 18px;
+    line-height:0.1px;
+    margin-top: 0px;
+    
+}
+.md-6{
+    margin-left: 250px;
+    display: inline-block;
+}
+
+
+
+ul { list-style: none; } 
+
+
+
